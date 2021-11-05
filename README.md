@@ -15,7 +15,6 @@ Realiza interfaz en una HMI para el control del PLC
 # 3.	RECURSOS REQUERIDOS
 
 •	1 motor trifásico jaula de ardilla
-
 •	4 Electro-válvulas 
 •	Cables para control y potencia punta-banana, banana-banana y punta-punta.
 •	Botonera y suiches según diseño
@@ -34,8 +33,6 @@ Realiza interfaz en una HMI para el control del PLC
 1.	En una lavadora industrial (por ejemplo, en una tintorería) es fundamental contar con un control secuencial que garantice un funcionamiento correcto y ajustable a las diferentes telas que se necesiten. 
 
 2.	Se requiere controlar por medio de un PLC la lavadora industrial por lotes que tiene un motor para mover la carga en dos direcciones, cuatro electroválvulas (Suministro de Agua Caliente, Suministro de Agua Fría, suministro de jabón líquido y desagüe), un sensor inductivo para garantizar que la puerta este correctamente cerrada, 4 sensores de nivel (Se simularán con suiches) (vacío, bajo, medio y alto) para determinar el nivel de agua en la lavadora.
-
-
 
 3.	Los requerimientos son:
 

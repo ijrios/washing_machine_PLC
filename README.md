@@ -15,6 +15,7 @@ Realiza interfaz en una HMI para el control del PLC
 # 3.	RECURSOS REQUERIDOS
 
 •	1 motor trifásico jaula de ardilla
+
 •	4 Electro-válvulas 
 •	Cables para control y potencia punta-banana, banana-banana y punta-punta.
 •	Botonera y suiches según diseño

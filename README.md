@@ -1,18 +1,18 @@
 # SISTEMAS DE SUPERVISIÓN - PRACTICA HMI Y SECUENCIA
 
-# 1.	FUNDAMENTO TEÓRICO
+## 1.	FUNDAMENTO TEÓRICO
 
 Muchas de las aplicaciones de automatización requieren una interfaz con el usuario gráfica y necesitan realizar trabajo en una secuencia específica, para ello es muy común utilizar un sistema de control PLC-HMI.
 
 
-# 2.	OBJETIVO(S)
+## 2.	OBJETIVO(S)
 
 Diseña e implementa Lógica secuencial con funciones en un PLC para un ejercicio propuesto por el docente.
 
 Realiza interfaz en una HMI para el control del PLC
 
 
-# 3.	RECURSOS REQUERIDOS
+## 3.	RECURSOS REQUERIDOS
 
 •	1 motor trifásico jaula de ardilla
 •	4 Electro-válvulas 
@@ -26,9 +26,9 @@ Realiza interfaz en una HMI para el control del PLC
 •	4 pilotos 24Vdc
 
 
-# 4.	PROCEDIMIENTO O METODOLOGÍA PARA EL DESARROLLO
+## 4.	PROCEDIMIENTO O METODOLOGÍA PARA EL DESARROLLO
 
-4.1.	Descripción del Requerimiento
+### 4.1.	Descripción del Requerimiento
 
 1.	En una lavadora industrial (por ejemplo, en una tintorería) es fundamental contar con un control secuencial que garantice un funcionamiento correcto y ajustable a las diferentes telas que se necesiten. 
 

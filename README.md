@@ -82,8 +82,3 @@ b.	Válvula agua fría
 6.	Las velocidades deben quedar en 50% al encender el PLC..
 7.	El variador debe mover el motor automáticamente a la velocidad que se indicó por pantalla y en la dirección correcta.
 pleando el software Tia Portal mediante lenguaje de diagrama de bloques.
-
-<p align="center">
-  <img src="MaquinadeEstados.jpg" width="750" title="hover text">
-  <img src="MaquinadeEstados2.jpg" width="750" title="hover text">
-</p>

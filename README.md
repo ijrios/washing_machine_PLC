@@ -85,5 +85,4 @@ pleando el software Tia Portal mediante lenguaje de diagrama de bloques.
 
 <p align="center">
   <img src="MaquinadeEstados.jpg" width="750" title="hover text">
-  <img src="MaquinadeEstados2.jpg" width="750" title="hover text">
 </p>
